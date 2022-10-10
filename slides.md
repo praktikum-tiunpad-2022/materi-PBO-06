@@ -122,17 +122,33 @@ src: ./pages/24_Cover Assignment.md
 
 ---
 ---
-src: ./pages/27_Teknis Pengumpulan 1.md 
+src: ./pages/25_Assignment1.md 
 
 ---
 ---
-src: ./pages/28_Teknis Pengumpulan 2.md 
+src: ./pages/26_Assignment2.md 
 
 ---
 ---
-src: ./pages/29_Deadline.md 
+src: ./pages/27_Assignment3.md 
 
 ---
 ---
-src: ./pages/30_Terima Kasih.md 
+src: ./pages/28_Assignment4.md 
+
+---
+---
+src: ./pages/29_Teknis Pengumpulan 1.md 
+
+---
+---
+src: ./pages/30_Teknis Pengumpulan 2.md 
+
+---
+---
+src: ./pages/31_Deadline.md 
+
+---
+---
+src: ./pages/32_Terima Kasih.md 
 ---
