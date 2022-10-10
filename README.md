@@ -18,3 +18,4 @@ Ubah `/materi-PBO-N/` ke nama repo pertemuan, eg untuk pertemuan 1 : `/materi-PB
 
 ## Notes
 - Projek ini memakai pnpm (bukan npm)!
+- Per tanggal 11 September 2022, masih ada bug jika tidak menggunakan pnpm-lock yang ada di repo ini, detailnya di [sini](https://github.com/slidevjs/slidev/issues/704)

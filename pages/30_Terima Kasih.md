@@ -8,4 +8,6 @@ class: text-center
 Do you have any questions?
 Please use respective class discussion channel on Discord.
 
-Semangat terus menjalani kuilahnya!! 🔥🔥🔥
+<div class="animate-pulse text-yellow">
+Key of success adalah kunci kesuksesan 🔥🔥🔥
+</div>
