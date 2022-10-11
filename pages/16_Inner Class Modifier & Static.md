@@ -1,4 +1,4 @@
-# Inner Class Access Modifier & Static
+# Inner Class Access Modifier
 
 <div class="grid grid-cols-2 gap-4">
 
@@ -10,7 +10,7 @@ Seperti member lainnya, inner class dapat memiliki access modifier seperti priva
 class OuterClass { // outer class
     int x = 5; // member outer class
     private class InnerClass { // inner class
-        int y = 19; //member inner class
+        int y = 10; //member inner class
     }
 }
 
@@ -21,7 +21,7 @@ public class Main {
         // instansiasi inner class
         // walaupun outer class punya inner class
         // tidak memiliki objek inner
-        OuterClass.InnerClass inner = new InnerClass();
+        OuterClass.InnerClass inner = outer.new InnerClass();
         System.out.println(outer.x + inner.y);
     }
 }
@@ -48,8 +48,8 @@ public class Main {
         OuterClass outer = new OuterClass();
 
         // instansiasi inner class
-        OuterClass.InnerClass inner = new InnerClass();
-        System.out.println(inner.getOuterX());
+        OuterClass.InnerClass inner = outer.new InnerClass();
+        System.out.println(inner.getOuterX()); // 5
     }
 }
 ```

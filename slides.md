@@ -90,65 +90,69 @@ src: ./pages/16_Inner Class Modifier & Static.md
 
 ---
 ---
-src: ./pages/17_Cover Anonymous Class.md 
+src: ./pages/17_Inner Class Static.md 
 
 ---
 ---
-src: ./pages/18_Anonymous Class.md 
+src: ./pages/18_Cover Anonymous Class.md 
 
 ---
 ---
-src: ./pages/19_Instansiasi Anonymous Class.md 
+src: ./pages/19_Anonymous Class.md 
 
 ---
 ---
-src: ./pages/20_Instansiasi Anonymous Class(lanj.).md 
+src: ./pages/20_Instansiasi Anonymous Class.md 
 
 ---
 ---
-src: ./pages/21_Instansiasi Anonymous Class(lanj. 2).md 
+src: ./pages/21_Instansiasi Anonymous Class(lanj.).md 
 
 ---
 ---
-src: ./pages/22_Cover Exercise.md 
+src: ./pages/22_Instansiasi Anonymous Class(lanj. 2).md 
 
 ---
 ---
-src: ./pages/23_Exercise.md 
+src: ./pages/23_Cover Exercise.md 
 
 ---
 ---
-src: ./pages/24_Cover Assignment.md 
+src: ./pages/24_Exercise.md 
 
 ---
 ---
-src: ./pages/25_Assignment1.md 
+src: ./pages/25_Cover Assignment.md 
 
 ---
 ---
-src: ./pages/26_Assignment2.md 
+src: ./pages/26_Assignment1.md 
 
 ---
 ---
-src: ./pages/27_Assignment3.md 
+src: ./pages/27_Assignment2.md 
 
 ---
 ---
-src: ./pages/28_Assignment4.md 
+src: ./pages/28_Assignment3.md 
 
 ---
 ---
-src: ./pages/29_Teknis Pengumpulan 1.md 
+src: ./pages/29_Assignment4.md 
 
 ---
 ---
-src: ./pages/30_Teknis Pengumpulan 2.md 
+src: ./pages/30_Teknis Pengumpulan 1.md 
 
 ---
 ---
-src: ./pages/31_Deadline.md 
+src: ./pages/31_Teknis Pengumpulan 2.md 
 
 ---
 ---
-src: ./pages/32_Terima Kasih.md 
+src: ./pages/32_Deadline.md 
+
+---
+---
+src: ./pages/33_Terima Kasih.md 
 ---

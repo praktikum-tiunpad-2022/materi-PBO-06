@@ -24,7 +24,7 @@ Jika penggunaannya tepat, nested/inner classes membuat kode menjadi lebih mudah 
 class OuterClass { // outer class
     int x = 5; // member outer class
     class InnerClass { // inner class
-        int y = 19; //member inner class
+        int y = 10; //member inner class
     }
 }
 
@@ -35,7 +35,7 @@ public class Main {
         // instansiasi inner class
         // walaupun outer class punya inner class
         // tidak memiliki objek inner
-        OuterClass.InnerClass inner = new InnerClass();
+        OuterClass.InnerClass inner = outer.new InnerClass();
         System.out.println(outer.x + inner.y);
     }
 }

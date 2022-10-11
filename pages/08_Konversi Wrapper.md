@@ -12,7 +12,7 @@ public static void main(String[] args){
     //  Variable primitif
     int pri = 10;
 
-    //  Constructor sudah diharapkan mulai dari Java 9
+    //  Constructor sudah diharamkan mulai dari Java 9
     Integer obj1 = new Integer(pri);
 
     //  Pakai factory method
