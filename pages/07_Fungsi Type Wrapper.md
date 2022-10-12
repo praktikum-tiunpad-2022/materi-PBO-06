@@ -10,7 +10,7 @@
 <div class="grid grid-cols-2 gap-4">
 <div class='flex-row'>
 <div class='text-orange text-4xl font-extrabold'>01</div>
-<div class='font-light text-sm'>Untuk melakukan modifikasi value dari argumen dalam method. Dengan syarat, object harus bersifat IMMUTABLE.</div>
+<div class='font-light text-sm'>Untuk melakukan modifikasi value dari argumen dalam method. Dengan syarat, object harus bersifat Mutable.</div>
 </div>
 <div class='flex-row'>
 <div class='text-orange text-4xl font-extrabold'>02</div>
